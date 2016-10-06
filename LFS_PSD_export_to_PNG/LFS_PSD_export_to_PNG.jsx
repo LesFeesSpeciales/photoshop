@@ -1,13 +1,15 @@
-/* Copyright ou © ou Copr.
-François Grassard for "Les Fées Spéciales"
+/* Copyright François Grassard for "Les Fées Spéciales" 2016
 V1.0 - 5 Octobre 2016 (2016/10/05)
 
-This software is a computer program whose purpose is to extract layer from a PSD file and extract them
-to the disk in PNG format. This script must be executed in Photoshop itself.
+voeu@les-fees-speciales.coop
 
-This software is governed by the [CeCILL|CeCILL-B|CeCILL-C] license under French law and
+This software is a computer program whose purpose is to extract layers
+from a PSD file and save them to the disk in PNG format. This script
+must be executed in Photoshop itself.
+
+This software is governed by the CeCILL license under French law and
 abiding by the rules of distribution of free software.  You can  use, 
-modify and/ or redistribute the software under the terms of the [CeCILL|CeCILL-B|CeCILL-C]
+modify and/ or redistribute the software under the terms of the CeCILL
 license as circulated by CEA, CNRS and INRIA at the following URL
 "http://www.cecill.info". 
 
@@ -29,7 +31,7 @@ data to be ensured and,  more generally, to use and operate it in the
 same conditions as regards security. 
 
 The fact that you are presently reading this means that you have had
-knowledge of the [CeCILL|CeCILL-B|CeCILL-C] license and that you accept its terms.*/
+knowledge of the CeCILL license and that you accept its terms.*/
 
 
 
