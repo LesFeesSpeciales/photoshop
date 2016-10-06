@@ -1,3 +1,17 @@
+
+LFS_PSD_export_to_PNG
+=====================
+
+
+English
+------
+
+This tool export each layer from a PSD file, to as much PNG files as layers.
+The exported png files are saved in a folder close to the original psd.
+The pngs are named after the file name and the layer name as : psdFileName-layerName.png
+
+
+
 Script installation process :
 -----------------------------
 
@@ -11,3 +25,23 @@ C:\Program Files\Adobe\Adobe Photoshop CC 2015.5\Presets\Scripts
 
 
 Now you can execute the script through the "File > Scripts" menu.
+
+
+Francais
+--------
+
+Ce script exporte chaque layer d’un fichier PSD dans autant de PNG que necessaire.
+Les fichiers exportés le sont dans un dossier proche de la source psd.
+Les Png sont nommés d’après le fichier et le nom du layer tel que : nomDuFichier-nomDuLayer.png
+
+
+Installation du script
+----------------------
+
+Il suffit de copier le fichier "LFS_PSD_export_to_PNG.jsx" dans le dossier Presets/Scripts de votre installation Photoshop.
+
+Par exemple sur Windows, pour photoshop CC 2015 :
+C:\Program Files\Adobe\Adobe Photoshop CC 2015.5\Presets\Scripts
+
+
+Une fois photoshop lancé, vous trouverez le script dans : Fichier / Scripts
