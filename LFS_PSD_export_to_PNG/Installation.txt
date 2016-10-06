@@ -1,0 +1,13 @@
+Script installation process :
+-----------------------------
+
+
+Just copy the file "LFS_PSD_export_to_PNG.jsx" in the "Presets\Scripts" folder of your Photoshop directory.
+
+
+Example for Photoshop 2015.5 on Windows :
+
+C:\Program Files\Adobe\Adobe Photoshop CC 2015.5\Presets\Scripts
+
+
+Now you can execute the script through the "File > Scripts" menu.
